@@ -28,7 +28,7 @@ Este proyecto es una aplicación web construida con **Spring Boot**, que expone 
 ### 1. Clona el repositorio
 
 ```bash
-git clone https://github.com/tuusuario/spring-dyna-demo.git
+git clone https://github.com/Mawy23/spring-dyna-demo.git
 cd spring-dyna-demo
 ```
 
